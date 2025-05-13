@@ -14,5 +14,4 @@ function calculate(numOne: number, numTwo: number, operation: string): number | 
 
 }
 
-
 console.log(calculate(0, 5, '/'));
